@@ -11,4 +11,4 @@ This is the github for grammarly chrome extension source code
 
 
 
-![](Images/grammarly.gif)
+![](Images/formatting-animated.gif)
